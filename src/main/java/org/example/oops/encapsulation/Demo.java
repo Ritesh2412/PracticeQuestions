@@ -50,7 +50,7 @@ class Student{
         //Validation --> college should be real
         College = college;
     }
-    
+
     //constructor
     public Student(String name, int age, int roll, String college) {
         this.name = name;
